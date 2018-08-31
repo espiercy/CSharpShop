@@ -1,0 +1,16 @@
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\obj\Debug\ExamRef.csprojResolveAssemblyReference.cache
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\ExamRef.exe.config
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\ExamRef.exe
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\ExamRef.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter1.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter2.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter1.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter2.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\obj\Debug\ExamRef.exe
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\obj\Debug\ExamRef.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter3.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\EntityFramework.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter3.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\EntityFramework.xml
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter4.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\ExamRef\bin\Debug\Chapter4.pdb

@@ -1,0 +1,5 @@
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter2\bin\Debug\Chapter2.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter2\obj\Debug\Chapter2.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter2\obj\Debug\Chapter2.pdb

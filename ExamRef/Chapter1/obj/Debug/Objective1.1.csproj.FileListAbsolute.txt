@@ -1,0 +1,5 @@
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Objective1.1\bin\Debug\Objective1.1.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Objective1.1\bin\Debug\Objective1.1.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Objective1.1\obj\Debug\Objective1.1.csprojResolveAssemblyReference.cache
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Objective1.1\obj\Debug\Objective1.1.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Objective1.1\obj\Debug\Objective1.1.pdb

@@ -1,0 +1,6 @@
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\bin\Debug\SGCH3CodeChallenges.exe.config
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\bin\Debug\SGCH3CodeChallenges.exe
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\bin\Debug\SGCH3CodeChallenges.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\obj\Debug\SGCH3CodeChallenges.csprojResolveAssemblyReference.cache
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\obj\Debug\SGCH3CodeChallenges.exe
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\SGCH3CodeChallenges\SGCH3CodeChallenges\obj\Debug\SGCH3CodeChallenges.pdb

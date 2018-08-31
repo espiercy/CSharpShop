@@ -1,0 +1,10 @@
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\Chapter4.dll.config
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\Chapter4.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\EntityFramework.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\EntityFramework.xml
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\obj\Debug\Chapter4.csprojResolveAssemblyReference.cache
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\obj\Debug\Chapter4.dll
+C:\Users\epiercy\Documents\Visual Studio 2015\Projects\ExamRef\Chapter4\obj\Debug\Chapter4.pdb
